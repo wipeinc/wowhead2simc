@@ -1,0 +1,23 @@
+{
+  "name": "wowhead2simc",
+  "version": "1.0.0",
+  "description": "Convert wowhead links to simulationcraft item strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wipeinc/wowhead2simc.git"
+  },
+  "keywords": [
+    "wowhead",
+    "simulationcraft"
+  ],
+  "author": "Sweetlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wipeinc/wowhead2simc/issues"
+  },
+  "homepage": "https://github.com/wipeinc/wowhead2simc#readme"
+}
